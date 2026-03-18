@@ -253,7 +253,7 @@ const TRANSLATIONS = {
     why2_title: 'Deep Cultural Understanding',
     why2_desc: 'Arabic communication capabilities and deep understanding of GCC business customs. A partner who understands how Wasta works.',
     why3_title: 'From Strategy to Execution',
-    why3_desc: 'We don't just deliver market research reports. From strategy design to partner connection, entity formation, and marketing execution—everything through a single window.',
+    why3_desc: 'We don\'t just deliver market research reports. From strategy design to partner connection, entity formation, and marketing execution—everything through a single window.',
     footer_desc: 'Operated by Sanad Partners. A premium strategic partner connecting East Asia and the Middle East.',
     footer_services: 'Services',
     footer_company: 'Company',
